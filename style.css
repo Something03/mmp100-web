@@ -7,3 +7,23 @@ img, video{
     height:auto;
 }
 
+nav,li,p{
+    font-family: Helvetica, Arial, sans-serif;
+    color: #333333;
+}
+
+footer,h1,div{
+    font-family: Georgia, Arial, sans-serif;
+    color: #333333;
+}
+
+b,div,p{
+    font-weight: 900;
+}
+
+header,footer{
+    padding: 10px;
+    background-color: 
+#63b2fd
+}
+
