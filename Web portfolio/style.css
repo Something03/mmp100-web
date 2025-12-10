@@ -27,3 +27,12 @@ header,footer{
 #63b2fd
 }
 
+body{
+  max-width: 70ch;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p{
+  width: 500px;
+}
